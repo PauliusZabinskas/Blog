@@ -15,13 +15,12 @@ export class HomeComponent {
       title: 'Portfolio Website',
       description: 'A personal portfolio website built with Angular and featuring a dark mode design inspired by modern web trends.',
       technologies: ['Angular', 'TypeScript', 'SCSS'],
-      githubUrl: 'https://github.com/yourusername/portfolio',
-      liveUrl: 'https://yourportfolio.com'
+      githubUrl: 'https://github.com/PauliusZabinskas/Blog'
     },
     {
-      title: 'E-commerce Platform',
-      description: 'A full-featured e-commerce application with product listings, cart functionality, and secure checkout process.',
-      technologies: ['React', 'Node.js', 'MongoDB', 'Express'],
+      title: 'Andraid App',
+      description: 'Yet to be defined',
+      technologies: ['Android', 'Java', 'Firebase', 'Kotlin'],
       githubUrl: 'https://github.com/yourusername/ecommerce',
       liveUrl: 'https://yourecommerce.com'
     },
