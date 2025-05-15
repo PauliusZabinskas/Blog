@@ -18,9 +18,9 @@ export class HomeComponent {
       githubUrl: 'https://github.com/PauliusZabinskas/Blog'
     },
     {
-      title: 'Andraid App',
-      description: 'Yet to be defined',
-      technologies: ['Android', 'Java', 'Firebase', 'Kotlin'],
+      title: 'E-commerce Platform',
+      description: 'A full-featured e-commerce application with product listings, cart functionality, and secure checkout process.',
+      technologies: ['React', 'Node.js', 'MongoDB', 'Express'],
       githubUrl: 'https://github.com/yourusername/ecommerce',
       liveUrl: 'https://yourecommerce.com'
     },
